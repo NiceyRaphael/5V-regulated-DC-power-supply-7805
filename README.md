@@ -18,6 +18,7 @@ Components Used
 - Breadboard and jumper wires
 
 Circuit Description
+
 The circuit consists of an input filter capacitor, a 7805 linear regulator, and output decoupling to ensure stable voltage regulation and prevent oscillation.
 
 Testing Performed
@@ -40,8 +41,11 @@ Future Improvements
 - Replace linear regulator with buck converter
 - Add current protection
 - Design PCB version
+  
+
 
 Author
+
 Nicey Raphael  
 Graduate Electronics Engineer
 
